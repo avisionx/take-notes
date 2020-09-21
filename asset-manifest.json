@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/take-notes/static/css/main.5f361e03.chunk.css",
+    "main.js": "/take-notes/static/js/main.5b6d35dd.chunk.js",
+    "main.js.map": "/take-notes/static/js/main.5b6d35dd.chunk.js.map",
+    "runtime-main.js": "/take-notes/static/js/runtime-main.b6fe9333.js",
+    "runtime-main.js.map": "/take-notes/static/js/runtime-main.b6fe9333.js.map",
+    "static/js/2.ffc42e91.chunk.js": "/take-notes/static/js/2.ffc42e91.chunk.js",
+    "static/js/2.ffc42e91.chunk.js.map": "/take-notes/static/js/2.ffc42e91.chunk.js.map",
+    "index.html": "/take-notes/index.html",
+    "precache-manifest.4f535b55f155401a1190027fa8e5e316.js": "/take-notes/precache-manifest.4f535b55f155401a1190027fa8e5e316.js",
+    "service-worker.js": "/take-notes/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/take-notes/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ffc42e91.chunk.js.LICENSE.txt": "/take-notes/static/js/2.ffc42e91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/take-notes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6fe9333.js",
+    "static/js/2.ffc42e91.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5b6d35dd.chunk.js"
+  ]
+}
