@@ -19,10 +19,13 @@ function App() {
 
   const fetchUserTasks = (curUser) => {
     firebase.database().ref(curUser.uid).once('value').then((snapshot) => {
-      if (snapshot.val())
-        setUserTasks(snapshot.val())
+      if (snapshot.val()){
+        setUserTasks(snapshot.val());
+      }
       else
         setUserTasks([])
+    }).catch((error) => {
+      console.log("no interner");
     })
   }
 
@@ -87,12 +90,10 @@ function App() {
       <Button onClick = {signOut} > Sign Out </Button> 
       {
         tasks.map((data, i) => ( 
-        <p key = {i}> {data} </p>
+          <p key = {i}> {data} </p>
         )
       )} 
-      <Input placeholder = "task add"
-      onChange = {inputHandler}
-      value={newTask} /> 
+      <Input placeholder = "task add" onChange = {inputHandler} value={newTask} /> 
       <Button onClick = {addTask} > Send </Button>
       </Container>
     );
