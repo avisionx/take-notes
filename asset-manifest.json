@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/take-notes/static/css/main.0aa453fe.chunk.css",
-    "main.js": "/take-notes/static/js/main.e8508a31.chunk.js",
-    "main.js.map": "/take-notes/static/js/main.e8508a31.chunk.js.map",
+    "main.js": "/take-notes/static/js/main.427c9465.chunk.js",
+    "main.js.map": "/take-notes/static/js/main.427c9465.chunk.js.map",
     "runtime-main.js": "/take-notes/static/js/runtime-main.b6fe9333.js",
     "runtime-main.js.map": "/take-notes/static/js/runtime-main.b6fe9333.js.map",
     "static/js/2.ce18de12.chunk.js": "/take-notes/static/js/2.ce18de12.chunk.js",
     "static/js/2.ce18de12.chunk.js.map": "/take-notes/static/js/2.ce18de12.chunk.js.map",
     "index.html": "/take-notes/index.html",
-    "precache-manifest.1ccd1dd8c20c9aa2e9b01c1190bcf808.js": "/take-notes/precache-manifest.1ccd1dd8c20c9aa2e9b01c1190bcf808.js",
+    "precache-manifest.d809739364f40c716071470dec4a52bc.js": "/take-notes/precache-manifest.d809739364f40c716071470dec4a52bc.js",
     "service-worker.js": "/take-notes/service-worker.js",
     "static/css/main.0aa453fe.chunk.css.map": "/take-notes/static/css/main.0aa453fe.chunk.css.map",
     "static/js/2.ce18de12.chunk.js.LICENSE.txt": "/take-notes/static/js/2.ce18de12.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b6fe9333.js",
     "static/js/2.ce18de12.chunk.js",
     "static/css/main.0aa453fe.chunk.css",
-    "static/js/main.e8508a31.chunk.js"
+    "static/js/main.427c9465.chunk.js"
   ]
 }
