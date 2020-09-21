@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fae8c4560a83eb8fe0f6b606ab1007b",
+    "revision": "fc717c3c1b9d54f32ca1f5c8c28adf97",
     "url": "/take-notes/index.html"
   },
   {
-    "revision": "7d8bf3fda39007556458",
+    "revision": "bd85dd298665712e4864",
     "url": "/take-notes/static/css/main.0aa453fe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/take-notes/static/js/2.ce18de12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d8bf3fda39007556458",
-    "url": "/take-notes/static/js/main.427c9465.chunk.js"
+    "revision": "bd85dd298665712e4864",
+    "url": "/take-notes/static/js/main.5594f2d9.chunk.js"
   },
   {
     "revision": "920dc715ae9fecb738d3",
