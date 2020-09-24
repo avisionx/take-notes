@@ -4,8 +4,10 @@ import React, {
 } from 'react';
 import {
   Button,
+  Col,
   Container,
-  Input
+  Input,
+  Row
 } from 'reactstrap';
 
 import firebase from 'firebase'
@@ -25,7 +27,7 @@ function App() {
       else
         setUserTasks([])
     }).catch((error) => {
-      console.log("no interner");
+      console.log("no internet");
     })
   }
 
@@ -82,7 +84,14 @@ function App() {
 
   if (!user)
     return ( 
-      <Button onClick = {signIn}> Sign In </Button>
+      <Container fluid className="d-flex align-items-center justify-content-center bg-primary" style={{height: '100vh'}}>
+        <Row>
+          <Col className="p-5 shadow-lg rounded-lg bg-info">
+            <h3 className=" font-weight-bold text-light mb-3">Login To Proceed...</h3>
+            <Button onClick = {signIn} size="lg" color="danger" className="w-100"> Continue with Google </Button>
+          </Col>
+        </Row>
+      </Container>
     )
   else
     return ( 
