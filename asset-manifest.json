@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/take-notes/static/css/main.0aa453fe.chunk.css",
-    "main.js": "/take-notes/static/js/main.97230040.chunk.js",
-    "main.js.map": "/take-notes/static/js/main.97230040.chunk.js.map",
+    "main.css": "/take-notes/static/css/main.937248bd.chunk.css",
+    "main.js": "/take-notes/static/js/main.d31bf0bc.chunk.js",
+    "main.js.map": "/take-notes/static/js/main.d31bf0bc.chunk.js.map",
     "runtime-main.js": "/take-notes/static/js/runtime-main.b6fe9333.js",
     "runtime-main.js.map": "/take-notes/static/js/runtime-main.b6fe9333.js.map",
-    "static/js/2.9b7dd715.chunk.js": "/take-notes/static/js/2.9b7dd715.chunk.js",
-    "static/js/2.9b7dd715.chunk.js.map": "/take-notes/static/js/2.9b7dd715.chunk.js.map",
+    "static/js/2.21d0ac78.chunk.js": "/take-notes/static/js/2.21d0ac78.chunk.js",
+    "static/js/2.21d0ac78.chunk.js.map": "/take-notes/static/js/2.21d0ac78.chunk.js.map",
     "index.html": "/take-notes/index.html",
-    "precache-manifest.6903095299dbc0ea05ce9b6f4465ab6f.js": "/take-notes/precache-manifest.6903095299dbc0ea05ce9b6f4465ab6f.js",
+    "precache-manifest.a2202547d3d1e700bef5a9f71597e769.js": "/take-notes/precache-manifest.a2202547d3d1e700bef5a9f71597e769.js",
     "service-worker.js": "/take-notes/service-worker.js",
-    "static/css/main.0aa453fe.chunk.css.map": "/take-notes/static/css/main.0aa453fe.chunk.css.map",
-    "static/js/2.9b7dd715.chunk.js.LICENSE.txt": "/take-notes/static/js/2.9b7dd715.chunk.js.LICENSE.txt"
+    "static/css/main.937248bd.chunk.css.map": "/take-notes/static/css/main.937248bd.chunk.css.map",
+    "static/js/2.21d0ac78.chunk.js.LICENSE.txt": "/take-notes/static/js/2.21d0ac78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6fe9333.js",
-    "static/js/2.9b7dd715.chunk.js",
-    "static/css/main.0aa453fe.chunk.css",
-    "static/js/main.97230040.chunk.js"
+    "static/js/2.21d0ac78.chunk.js",
+    "static/css/main.937248bd.chunk.css",
+    "static/js/main.d31bf0bc.chunk.js"
   ]
 }
