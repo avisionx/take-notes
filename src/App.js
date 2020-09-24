@@ -11,6 +11,7 @@ import {
 } from 'reactstrap';
 
 import firebase from 'firebase'
+import Logo from './images/logo.png'
 
 function App() {
 
@@ -84,11 +85,12 @@ function App() {
 
   if (!user)
     return ( 
-      <Container fluid className="d-flex align-items-center justify-content-center bg-primary" style={{height: '100vh'}}>
+      <Container fluid className="d-flex align-items-center justify-content-center bg-dark" style={{height: '100vh', overflow: 'hidden'}}>
         <Row>
-          <Col className="p-5 shadow-lg rounded-lg bg-info">
-            <h3 className=" font-weight-bold text-light mb-3">Login To Proceed...</h3>
-            <Button onClick = {signIn} size="lg" color="danger" className="w-100"> Continue with Google </Button>
+          <Col className="shadow-lg rounded-lg bg-white text-center py-5 px-3 px-lg-5">
+            <img src={Logo} alt="" width="100px" className="mb-3" />
+            <p className=" font-weight-bold text-dark mb-4">Welcome, Please login to proceed...</p>
+            <Button onClick = {signIn} color="danger" className="w-75 py-2"> Continue with Google </Button>
           </Col>
         </Row>
       </Container>
