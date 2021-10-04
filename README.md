@@ -4,7 +4,7 @@
   <p align="center"><img src="https://img.shields.io/github/workflow/status/avisionx/take-notes/Build%20and%20Deploy/master?style=flat-square"> <img src="https://img.shields.io/github/issues-raw/avisionx/take-notes?style=flat-square"> <img src="https://img.shields.io/website?url=http://userly.studio/&style=flat-square"> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Favisionx%2Ftake-notes" alt="Hits"> <img src="https://img.shields.io/github/languages/count/avisionx/take-notes?style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/avisionx/take-notes?style=flat-square"> <img src="https://img.shields.io/github/stars/avisionx/take-notes?style=flat-square"> <img src="https://img.shields.io/github/contributors/avisionx/take-notes?style=flat-square"> <img src="https://img.shields.io/github/license/avisionx/take-notes?style=flat-square"></p>
 
   <p align="center">
-    The realtime notes keeping app for all platforms ✨
+    The realtime notes keeping pwa for all platforms ✨
     </br>
     <a href="https://github.com/avisionx/take-notes/#table-of-contents"><strong>Explore the docs »</strong></a><br/>
     <a href="https://avisionx.github.io/take-notes">Website</a>
